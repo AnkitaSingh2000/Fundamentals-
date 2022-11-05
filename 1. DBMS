@@ -1,10 +1,10 @@
 Q1. What are the differences between a DBMS and RDBMS? 
 
 DBMS	
-Provides an organized way of managing, retrieving, and storing from a collection of logically related information	
+Provides an organized way of managing, retrieving, and storing from a collection of logically related information.
 
 RDBMS
-Provides the same as that of DBMS, but it provides relational integrity
+Provides the same as that of DBMS, but it provides relational integrity.
 
 
 Q2. Explain the terms database and DBMS. Also, mention the different types of DBMS?
