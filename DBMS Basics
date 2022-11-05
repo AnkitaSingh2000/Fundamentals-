@@ -1,0 +1,42 @@
+Q1. What are the differences between a DBMS and RDBMS? 
+
+DBMS	
+Provides an organized way of managing, retrieving, and storing from a collection of logically related information	
+
+RDBMS
+Provides the same as that of DBMS, but it provides relational integrity
+
+
+Q2. Explain the terms database and DBMS. Also, mention the different types of DBMS?
+
+A software application that interacts with databases, applications, and users to capture and analyze the required data. The data stored in the database can be retrieved, deleted and modified based on the client’s requirement.
+
+The different types of DBMS are as follows:
+
+Relational DBMS (RDBMS): This type of DBMS, uses a structure which allows the users to access data in relation to another piece of data in a database. In this type of DBMS, data is stored in the form of tables.
+Hierarchical DBMS:  As the name suggests, this type of DBMS has a structure similar to that of a tree, wherein the nodes represent records and the branches of the tree represent fields.
+Network DBMS: This type of DBMS supports many-to-many relations wherein multiple member records can be linked.
+Object-oriented DBMS: Uses small individual software called object to store pieces of data and the instructions for the actions to be done with the data.
+
+
+Q3. What are the advantages of DBMS?
+
+The advantages of DBMS are as follows:
+
+Sharing of Data: Multiple users can use data from the same database simultaneously.
+Integrity constraints: These constraints allow the data to be stored in a database in a refined manner.
+Redundancy control: Supports a mechanism to control the redundancy of data by integrating all the data into a single database.
+Data Independence: Allows to change the structure of the data without affecting the structure of any of the running application programs.
+Provide backup and recovery facility: Provides a feature of ‘backup and recovery’ to automatically create the data backup and restore the data as and when required.
+
+
+Q4. Mention the different languages present in DBMS?
+
+The different languages present in DBMS are as follows:
+
+DDL(Data Definition Language) – Consists of commands which are used to define the database.
+DML(Data Manipulation Language) –  Consists of commands which are used to manipulate the data present in the database.
+DCL(Data Control Language) – Consists of commands which deal with the user permissions and controls of the database system.
+TCL(Transaction Control Language) – Consist of commands which deal with the transaction of the database.
+
+
