@@ -1,0 +1,25 @@
+Q5. What do you understand by query optimization?
+Query optimization is the phase that identifies a plan for evaluation query that has the least estimated cost. This phase comes into the picture when there are a lot of algorithms and methods to execute the same task.
+
+The advantages of query optimization are as follows:
+1. The output is provided faster
+2. A larger number of queries can be executed in less time
+3. Reduces time and space complexity
+
+
+Q6. Do we consider NULL values the same as that of blank space or zero? 
+A NULL value is not at all same as that of zero or a blank space. The NULL value represents a value which is unavailable, unknown, assigned or not applicable whereas zero is a number and blank space is a character.
+
+
+Q7. What do you understand by aggregation and atomicity?
+Aggregation	Atomicity
+This is a feature of the E-R  model which allows a relationship set to participate in another relationship set.	
+This property states that a database modification must either follow all the rules or nothing at all. So, if one part of the transaction fails, then the entire transaction fails.
+
+
+Q8. What are the different levels of abstraction in the DBMS?
+There are three levels of data abstraction in DBMS. They are:
+
+1. Physical Level: It is the lowest level of abstraction and describes how the data is stored.
+2. Logical Level: This is the next level of abstraction after the Physical level. This layer determines what data is stored in the database, and what is the relationship between the data points.
+3. View Level: The View Level is the highest level of abstraction and it describes only a part of the entire database.
